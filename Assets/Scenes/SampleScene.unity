@@ -868,6 +868,10 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -0.652
       objectReference: {fileID: 0}
+    - target: {fileID: -5667782316280065654, guid: 45fe5043ac8b0054d855225793e8240d, type: 3}
+      propertyPath: m_Name
+      value: Dach oben
+      objectReference: {fileID: 0}
     - target: {fileID: -5443937220512060442, guid: 45fe5043ac8b0054d855225793e8240d, type: 3}
       propertyPath: m_LocalPosition.y
       value: 0.03283
@@ -1012,6 +1016,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: f945e2973b461e54894d92419dded0d3, type: 2}
+    - target: {fileID: -2026564055124951025, guid: 45fe5043ac8b0054d855225793e8240d, type: 3}
+      propertyPath: m_Name
+      value: Dach unten
+      objectReference: {fileID: 0}
     - target: {fileID: -2021799297820867200, guid: 45fe5043ac8b0054d855225793e8240d, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.01151
