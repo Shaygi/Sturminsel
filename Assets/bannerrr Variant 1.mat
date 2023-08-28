@@ -9,7 +9,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: bannerrr Variant 1
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
-  m_Parent: {fileID: -3565993978870431368, guid: 564f657c3398df5419d9e4f726583ba0, type: 3}
+  m_Parent: {fileID: 2100000, guid: ec6a34454965c6b459e8bad4ba559665, type: 2}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -22,8 +22,17 @@ Material:
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
-    m_TexEnvs: []
+    m_TexEnvs:
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 0.05, y: 0.05}
+        m_Offset: {x: 1, y: 1}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 7880829190a8f6847a457b887c10a0f4, type: 3}
+        m_Scale: {x: 0.05, y: 0.05}
+        m_Offset: {x: 1, y: 1}
     m_Ints: []
     m_Floats: []
-    m_Colors: []
+    m_Colors:
+    - _Color: {r: 0.9283019, g: 1, b: 0.957439, a: 1}
   m_BuildTextureStacks: []
